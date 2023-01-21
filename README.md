@@ -1,6 +1,6 @@
 # smartlife_cli
 
-A command-life interface for Smart Life
+A command-line interface for Smart Life
 
 
 Usage:
