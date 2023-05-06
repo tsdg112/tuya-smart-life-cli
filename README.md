@@ -5,7 +5,6 @@ A command-line interface for Smart Life
 
 Usage:
 
-smartlife.py
 smartlife.py [-v] on|off device_id
 
 Smartlife with no arguments gets a list of all your devices.  It is recommended that you save the output in a file, since there is a limit on how often you can run this command.
