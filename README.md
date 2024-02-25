@@ -1,4 +1,4 @@
-# smartlife_cli
+# tuya-smart-life-cli
 
 A command-line interface for Smart Life
 
